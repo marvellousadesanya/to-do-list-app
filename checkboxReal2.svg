@@ -1,0 +1,6 @@
+<svg width="105" height="98" viewBox="0 0 105 98" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="105" height="98" fill="#E5E5E5"/>
+<path id="outer-circle" d="M52.5 98C81.4949 98 105 76.062 105 49C105 21.938 81.4949 0 52.5 0C23.505 0 0 21.938 0 49C0 76.062 23.505 98 52.5 98Z" fill="#42E927"/>
+<path id="inner-circle" d="M52.5 90C77.629 90 98 71.8675 98 49.5C98 27.1325 77.629 9 52.5 9C27.371 9 7 27.1325 7 49.5C7 71.8675 27.371 90 52.5 90Z" fill="white" fill-opacity="0.89"/>
+<path id="tick" d="M47.8551 68L35 52.0297L42.4755 46.4109L48.5623 53.9731L69.1245 33L76 39.2944L47.8551 68Z" fill="#42E927"/>
+</svg>

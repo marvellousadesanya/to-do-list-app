@@ -1,0 +1,10 @@
+<svg style="position: absolute; width: 0; height: 0; overflow: hidden;" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect fill="#E5E5E5"/>
+<defs>
+<symbol id="outer-circle" viewbox="0 0 20 20">
+<title>outer-circle</title>
+<path d="M61.4696 110C95.0461 110 122.265 85.3757 122.265 55C122.265 24.6243 95.0461 0 61.4696 0C27.8931 0 0.67392 24.6243 0.67392 55C0.67392 85.3757 27.8931 110 61.4696 110Z" fill="#42E927"/>
+<path id="inner-circle" d="M61.4696 101C89.3552 101 111.961 80.4051 111.961 55C111.961 29.5949 89.3552 9 61.4696 9C33.584 9 10.9783 29.5949 10.9783 55C10.9783 80.4051 33.584 101 61.4696 101Z" fill="white" fill-opacity="0.89"/>
+<path id="tick" d="M56.753 74L41.8913 56.6608L50.5337 50.5604L57.5706 58.7708L81.3425 36L89.2913 42.8339L56.753 74Z" fill="#42E927"/>
+</defs>
+</svg>
